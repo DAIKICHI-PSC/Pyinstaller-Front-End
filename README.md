@@ -2,7 +2,7 @@
 Pyinstaller Front-End with GUI
 
 
-#Description:
+Description:
 
 This program is a front-end of pyinstaller.
 
