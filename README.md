@@ -25,7 +25,7 @@ pip install pythonnet
   
 Installation2:  
 After you placed files in your drive, run PyinstallerFrontEnd.py.  
-Set the path of pyinstaller.exe.  
+Set the path of pyinstaller.exe(i.e. PYTHON_FOLDER/Scripts/pyinstaller.exe).  
 Choose PyinstallerFrontEnd.py.  
 Choose icon.ico.  
 Check all the checkboxes.  
