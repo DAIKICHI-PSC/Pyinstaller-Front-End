@@ -3,8 +3,8 @@ Pyinstaller Front-End with GUI
 
 
 Description:  
-This program is a front-end of pyinstaller.  
-You can convert a python files to a exe file by using GUI.
+This program is a front-end for pyinstaller.  
+You can convert a python files to a exe file with GUI.
   
 Python Environment:  
 Python 3.7  
